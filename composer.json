@@ -14,15 +14,15 @@
         "homepage": "https://coliving.com"
     }],
     "require": {
-        "php": "^7.4|^8.0|^8.1",
-        "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.0",
-        "illuminate/database": "^5.8|^6.0|^7.0|^8.0|^9.0",
+        "php": "^8.0|^8.1|^8.2",
+        "illuminate/support": "^8.0|^9.0|^10.0",
+        "illuminate/database": "^8.0|^9.0|^10.0",
         "kalnoy/nestedset": "^6.0"
     },
     "require-dev": {
         "graham-campbell/testbench": "^5.7",
         "mockery/mockery": "^1.5",
-        "phpunit/phpunit": "7.*|8.*|9.*"
+        "phpunit/phpunit": "7.*|8.*|9.*|10.*"
     },
     "autoload": {
         "psr-4": {
