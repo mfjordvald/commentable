@@ -1,5 +1,5 @@
 {
-    "name": "coliving/commentable",
+    "name": "mfjordvald/commentable",
     "description": "Commentable Polymorphic Eloquent Models for for Laravel. This is fork from artisanry/commentable as it's abandoned",
     "keywords": [
         "laravel",
@@ -9,6 +9,10 @@
     ],
     "license": "MPL-2.0",
     "authors": [{
+        "name": "Martin Fjordvald",
+        "homepage": "https://github.com/mfjordvald/commentable"
+    }],
+    "contributors": [{
         "name": "Dzung Nguyen",
         "email": "dungnh@gmail.com",
         "homepage": "https://coliving.com"
