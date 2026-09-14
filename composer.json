@@ -17,6 +17,9 @@
         "email": "dungnh@gmail.com",
         "homepage": "https://coliving.com"
     }],
+    "require": {
+        "kalnoy/nestedset": "^6.0"
+    },
     "autoload": {
         "psr-4": {
             "Artisanry\\Commentable\\": "src/"
