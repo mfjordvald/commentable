@@ -11,8 +11,8 @@
     "authors": [{
         "name": "Martin Fjordvald",
         "homepage": "https://github.com/mfjordvald/commentable"
-    }],
-    "contributors": [{
+    },
+    {
         "name": "Dzung Nguyen",
         "email": "dungnh@gmail.com",
         "homepage": "https://coliving.com"
