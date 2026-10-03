@@ -18,7 +18,7 @@
         "homepage": "https://coliving.com"
     }],
     "require": {
-        "kalnoy/nestedset": "^6.0"
+        "kalnoy/nestedset": "^7.0"
     },
     "autoload": {
         "psr-4": {
